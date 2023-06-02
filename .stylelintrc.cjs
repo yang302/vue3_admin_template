@@ -48,6 +48,6 @@ module.exports = {
       {
         ignorePseudoClasses: ['global', 'v-deep', 'deep'], // 忽略属性，修改element默认样式的时候能使用到
       },
-    ],
+    ]
   },
 }
